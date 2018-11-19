@@ -5,3 +5,9 @@
 # this two user playing game
 # user input two int data (0 ~ 17)
 # thank you
+
+#GameMgr => singleton
+#gameMgr <- player
+#gameMgr <- map
+
+player <- stone
